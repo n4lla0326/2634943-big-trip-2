@@ -5,6 +5,7 @@ Thumbs.db
 # Файлы редактора
 .idea
 *.sublime*
+.kilo/
 .vscode
 
 # Вспомогательные файлы
@@ -12,3 +13,4 @@ Thumbs.db
 node_modules/
 
 # Собранные файлы (допишите самостоятельно)
+build/
