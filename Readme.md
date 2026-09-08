@@ -1,7 +1,7 @@
 # Проект «Большое путешествие»
 
 * Студент: [Алла Заливнова](https://up.htmlacademy.ru/ecmascript-individual/2/user/2634943).
-* Наставник: `Неизвестно`.
+* Наставник: [Виктория Никитина](https://github.com/vikitina).
 
 ---
 
