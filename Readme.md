@@ -1,3 +1,5 @@
+[Демонстрация проекта](https://n4lla0326.github.io/2634943-big-trip-2-demo/)
+
 # Проект «Большое путешествие»
 
 * Студент: [Алла Заливнова](https://up.htmlacademy.ru/ecmascript-individual/2/user/2634943).
